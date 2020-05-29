@@ -33,3 +33,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## URL
 
 [Link to deployed Horiseon webpage](https://bread-w.github.io/gt-semantic-html-homework/)
+
+[Link to GitHub Repository](https://github.com/bread-w/gt-semantic-html-homework)
